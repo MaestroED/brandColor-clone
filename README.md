@@ -1,2 +1,2 @@
-# brandColor-clone
-This project is brandColor clone
+# brandColor-clone Demo : https://brand-color-clone.surge.sh
+
